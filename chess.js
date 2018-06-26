@@ -49,7 +49,7 @@ var Chess = function(fen) {
   var QUEEN = 'q';
   var KING = 'k';
 
-  var SYMBOLS = 'pnbrqkPNBRQK';
+  var SYMBOLS = 'pnbrqkPNBRQKomvewjOMVEWJ';
 
   var DEFAULT_POSITION = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1';
 
